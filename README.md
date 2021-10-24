@@ -23,14 +23,14 @@ $ cd assignment/
 $ pip3 install -r requirements.txt
 ```
 
-####Migration command
+#### Migration command
 
 ```
 $ python manage.py makemigrations
 $ python manage.py migrate
 ```
 
-####Create super admin user
+#### Create super admin user
 
 ```
 $  python manage.py createsuperuser
@@ -40,12 +40,12 @@ $  python manage.py createsuperuser
 >>>  password (again): admin@1234
 ```
 
-####Run django server
+#### Run django server
 ```
 $ python3 manage.py runserver
 ```
 
-####Open swagger in browser
+#### Open swagger in browser
 ```
 http://127.0.0.1:8000/swagger/
 ```
