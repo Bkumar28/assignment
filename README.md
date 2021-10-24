@@ -1,12 +1,12 @@
-###Use Python Version
-	- Python 3.8
+#### Use Python Version
+ - Python 3.8
 
-####Create virtual environment
+#### Create virtual environment
 ```
 $ virtualenv venv -p python3
 ```
 
-####Activate virtual environment
+#### Activate virtual environment
 
 ```
 $ source venv/bin/activate
