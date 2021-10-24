@@ -1,3 +1,6 @@
+#### Clone project repo
+ - git clone https://github.com/Bkumar28/assignment.git
+ 
 #### Use Python Version
  - Python 3.8
 
