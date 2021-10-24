@@ -126,7 +126,7 @@ http://127.0.0.1:8000/swagger/
 
 #### Single Survey Update API
 - API Endpoint - http://127.0.0.1:8000/api/v1/surveys/1
-- Request Method - PATCH
+- Request Method - PUT
 - Request Payload
 ```
 {
